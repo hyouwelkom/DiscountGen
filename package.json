@@ -1,0 +1,30 @@
+{
+  "name": "codes_promos",
+  "version": "1.0.0",
+  "engines": {
+    "node": "^16.6"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supercharge/promise-pool": "^1.8.0",
+    "bitly": "^7.1.2",
+    "bottleneck": "^2.19.5",
+    "discord.js": "^13.3.1",
+    "discord.js-selfbot": "^12.0.2",
+    "fs": "0.0.1-security",
+    "googleapis": "^89.0.0",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.6",
+    "openai-api": "^1.2.6",
+    "readline": "^1.3.0",
+    "request": "^2.88.2",
+    "twitter-api-v2": "^1.6.5"
+  }
+}
